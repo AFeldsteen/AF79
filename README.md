@@ -15,3 +15,5 @@ And typsetting languages like:
 
 - LaTeX
 - LuaTex
+
+ <a href="https://github.com/AFeldsteen/AF79/blob/main/User%20Manual3.pdf" download="User Manual."> 
