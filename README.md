@@ -17,3 +17,4 @@ And typsetting languages like:
 - LuaTex
 
  <a href="https://github.com/AFeldsteen/AF79/blob/main/User%20Manual3.pdf" download="User Manual."> 
+[id]: http://example.com/  "Optional Title Here"
