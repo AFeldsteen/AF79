@@ -1,6 +1,4 @@
 
-<body style="background-color:#F5F5DC;">
-
 
 # This Page
 
