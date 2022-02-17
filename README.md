@@ -22,8 +22,8 @@ And typsetting languages like:
 
 
 ---
-
-(##Writings-Samples-heading) ## Writings Samples
+## Writings Samples
+(##Writings-Samples-heading) 
 
 To clone the repository type 
 
