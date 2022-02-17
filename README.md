@@ -1,3 +1,14 @@
+<?php
+	include __DIR__ . '/includes/emberlabs/GravatarLib/Gravatar.php';
+    $gravatar = new \emberlabs\GravatarLib\Gravatar();
+	// example: setting default image and maximum size
+	$gravatar->setDefaultImage('mm')
+		->setAvatarSize(150);
+	// example: setting maximum allowed avatar rating
+	$gravatar->setMaxRating('pg');
+	$avatar = $gravatar->buildGravatarURL('aaronfeldsteen
+2gmail.com');
+
 
 # This Page
 
