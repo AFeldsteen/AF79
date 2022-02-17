@@ -6,7 +6,7 @@ I wrote this page in GitHub flavored Markdown and HTML. To downlaod or *git clon
 section. Or, go directly to my [Dita Resume](##dita-resume). If you'd prefer to see my work online, go to the [Links](##links)
 section.
 
-[Go to Writing Samples Heading section](##writings-samples)
+[Go to Writing Samples Heading section](#writing-samples)
  
 ## My Specialty  
 
@@ -24,7 +24,7 @@ And typsetting languages like:
 
 
 ---
-##Writings Samples
+#Writing Samples
 
 
 To clone the repository type 
