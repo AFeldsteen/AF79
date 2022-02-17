@@ -35,7 +35,7 @@ To clone the repository type
 into your terminal. 
 
 
-To check out the *FileAgo User Manual* click [here](https://github.com/AFeldsteen/AF79/blob/main/User Manual3.pdf](URL).
+To check out the *FileAgo User Manual* click [here](https://github.com/AFeldsteen/AF79/blob/main/UserManual3.pdf).
 
 For examples of long form content click this [link](https://github.com/AFeldsteen/AF79/blob/main/PorfolioXI.pdf)
 
