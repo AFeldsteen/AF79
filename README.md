@@ -2,7 +2,7 @@
 # This Page
 
 
-I wrote this page in GitHub flavored Markdown and HTML. To downlaod or *git clone* examples of my work, check out the [Writing Samples](##writing-samples)
+I wrote this page in GitHub flavored Markdown and HTML. To downlaod or *git clone* examples of my work, check out the [Writing Samples](##Writing-Samples-anchor)
 section. Or, go directly to my [Dita Resume](##dita-resume). If you'd prefer to see my work online, go to the [Links](##links)
 section.
  
