@@ -23,7 +23,7 @@ And typsetting languages like:
 
 ---
 
-(##writing-samples) ## Writings Samples
+(##Writings-Samples-heading) ## Writings Samples
 
 To clone the repository type 
 
