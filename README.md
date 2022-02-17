@@ -1,11 +1,8 @@
 
-<body style="background-color:#F5F5DC;">
-
-
 # This Page
 
-I wrote this page in GitHub flavored Markdown and HTML. To downlaod or *git clone* examples of my work, check out the [Writing Samples](##Writing-Samples)
-section. Or, go directly to my [Dita Resume](##Dita=-Resume). If you'd prefer to see my work online, go to the [Links](##Links)
+I wrote this page in GitHub flavored Markdown and HTML. To downlaod or *git clone* examples of my work, check out the [Writing Samples](##writing-samples)
+section. Or, go directly to my [Dita Resume](##dita-resume). If you'd prefer to see my work online, go to the [Links](##links)
 section.
  
 ## My Specialty  
@@ -60,7 +57,7 @@ To clone the repo type
 
 imto your terminal. 
 
-A PDF version is coming soon. 
+A PDF version coming soon. 
 
 ---
 
@@ -76,6 +73,8 @@ Long form content:
 Find me on Linkedin here: [https://www.linkedin.com/in/aaron-feldsteen-5a9490146/].(url).
 
 Or, email me at [aaronfeldsteen@gmail.com](url).
+
+
 
 
 
