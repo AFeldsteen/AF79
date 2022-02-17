@@ -39,7 +39,7 @@ To check out the *FileAgo User Manual* click [here](https://github.com/AFeldstee
 
 For examples of long form content click this [link](https://github.com/AFeldsteen/AF79/blob/main/PorfolioXI.pdf)
 
-To get a copy of my editorial articles, click[this](https://github.com/AFeldsteen/AF79/blob/main/Street%20Kulture%20November%20Issue%202021%20Final%20draft)
+To get a copy of my editorial articles, click [this](https://github.com/AFeldsteen/AF79/blob/main/Street%20Kulture%20November%20Issue%202021%20Final%20draft)
 
 ---
 
