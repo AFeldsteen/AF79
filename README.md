@@ -35,19 +35,11 @@ To clone the repository type
 into your terminal. 
 
 
-To check out the *FileAgo User Manual:*
+To check out the *FileAgo User Manual* click [here](https://github.com/AFeldsteen/AF79/blob/main/User Manual3.pdf](URL).
 
+For examples of long form content click this [link](https://github.com/AFeldsteen/AF79/blob/main/PorfolioXI.pdf)
 
-[https://github.com/AFeldsteen/AF79/blob/main/User Manual3.pdf](URL)
-
-For examples of long form content click this link: 
-
-
-[https://github.com/AFeldsteen/AF79/blob/main/PorfolioXI.pdf](url)
-
-To get a copy of my editorial articles, go to:
-
-[https://github.com/AFeldsteen/AF79/blob/main/Street%20Kulture%20November%20Issue%202021%20Final%20draft](url)
+To get a copy of my editorial articles, click[this](https://github.com/AFeldsteen/AF79/blob/main/Street%20Kulture%20November%20Issue%202021%20Final%20draft)
 
 ---
 
@@ -72,7 +64,7 @@ Long form content:
 
 ### Contact
 
-Find me on Linkedin here: [https://www.linkedin.com/in/aaron-feldsteen-5a9490146/].(url).
+Find me on Linkedin [here](https://www.linkedin.com/in/aaron-feldsteen-5a9490146/).
 
 Or, email me at [aaronfeldsteen@gmail.com](url).
 
