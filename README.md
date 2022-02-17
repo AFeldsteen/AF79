@@ -57,7 +57,7 @@ A PDF version coming soon.
 
 ## Links
 
-A well recieved blog: [https://www.linkedin.com/feed/update/urn:li:activity:6897741656846929920/](URL)
+A well recieved [blog](https://www.linkedin.com/feed/update/urn:li:activity:6897741656846929920)
 
 Long form content:
 
