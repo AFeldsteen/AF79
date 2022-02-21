@@ -25,7 +25,7 @@ And typsetting languages like:
 
 ---
 
-#Writing Samples
+## Writing Samples
 
 
 To clone the repository type 
