@@ -49,7 +49,7 @@ To get a copy of my editorial articles, click [this](https://github.com/AFeldste
 
 It's a breif outline of the musical drone. It can be found [here](https://github.com/AFeldsteen/The-Musical-Drone.git)
 
-To clone the repo type 
+
 
 
 ---
