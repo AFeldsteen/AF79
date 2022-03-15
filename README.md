@@ -35,7 +35,7 @@ To clone the repository type
 `
 
 into your terminal. 
-
+To get Human Error: The Downfall of Giants, an article about human errors in IT and how to avoid the click [here](https://github.com/AFeldsteen/AF79/blob/main/Human%20Error%20The%20Downfall%20of%20Giants.pdf0
 
 To check out the *FileAgo User Manual* click [here](https://github.com/AFeldsteen/AF79/blob/main/User%20Manual3.pdf).
 
