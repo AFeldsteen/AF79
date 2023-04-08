@@ -129,7 +129,7 @@ For examples of long form content click this [link](https://github.com/AFeldstee
 To get a copy of my editorial articles, click [this](https://github.com/AFeldsteen/AF79/blob/main/Street%20Kulture%20November%20Issue%202021%20Final%20draft)<br>
 	Please download the PDF via the "download raw" radial. 
 
-
+[Dita authoring](https://github.com/AFeldsteen/AF79/blob/main/drone.epub)
 
 
 
