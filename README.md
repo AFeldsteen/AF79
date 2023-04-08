@@ -131,6 +131,6 @@ To get a copy of my editorial articles, click [this](https://github.com/AFeldste
 
 [Dita authoring](https://github.com/AFeldsteen/AF79/blob/main/drone.epub)
 
-[Keyboard Layouts}(https://github.com/AFeldsteen/Stingray)
+[Keyboard Layouts](https://github.com/AFeldsteen/Stingray)
 
-[Schema authoring}(https://github.com/AFeldsteen/The-Universal-XSPF-Playlist-Schema/tree/main)
+[Schema authoring](https://github.com/AFeldsteen/The-Universal-XSPF-Playlist-Schema/tree/main)
