@@ -13,7 +13,7 @@ Howdy,
 I’m a creative techie. For fun, I create alternative keyboard layouts and write fiction. For work, I craft technical documentation and Audit SEO efficacy. 
 
 ***I wrote this page in GitHub flavored Markdown. To downlaod or *git clone* examples of my work, check out the [Writing Samples](#writing-samples)
-section. Or, go directly to my [Dita Resume](#dita-resume). If you'd prefer to see my work online, go to the [Links](#links)
+section. Or, go directly to my [Dita authoring](https://github.com/AFeldsteen/AF79/blob/main/drone.epub). If you'd prefer to see my work online, go to the [Links](#links)
 section.***
 
 
