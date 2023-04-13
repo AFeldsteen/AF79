@@ -2,9 +2,10 @@
 1. [Introduction](#introduction)
 2. [Style](#paragraph1)
 3. [My Skills](#paragraph3)
-4. [Conclusion](#subparagraph1)
-5. [Contact](#paragraph2)
-6. [Samples](#subparagraph2)
+4. [My Work](#paragraph5)
+5. [Conclusion](#subparagraph1)
+6. [Contact](#paragraph2)
+7. [Samples](#subparagraph2)
 
 
 ## This is the introduction <a name="introduction"></a>
@@ -37,7 +38,7 @@ On average, Ransomware costs Hackers between 250 dollars and 650 dollars. 	It’
 </details>
 
 
-#My Work <a name="paragraph1"></a>
+# My Work <a name="paragraph5"></a>
 I work well with the limitations of Twitter and can customize a post for both long form blogs, like Medium, and quick reads like Facebook. I am adept at Adobe Experience Manager, when it comes to modifying and managing content. In fact, I quickly gathered followers for the trekking industry in Nepal, via Twitter, and a psychologist in India, In Vivo by writing multi-panel blogs for their website as well as longer content. Working closely with UI/UX, I’ve created content for players in big data as well the liberal arts, not to brag. 
 
 
