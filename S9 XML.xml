@@ -1,0 +1,335 @@
+<!-- NOTE: all alt text needs cleansed, it has things like "the last of us" or simply says "image" Also, <script> needs to be changed to 
+<script type="text/javascript">  
+
+<!-- change in doctype to xml schema 1.0 --> 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+
+<!-- home page head --> 
+<meta charset="UTF-8">
+<title>S9 Financial Planners</title> <!-- the html is changed to something that can be logically read by screen readers --> 
+<meta name="description" content="S9 Financial Planners are professionals who will help you with personal financial Planning, Fund Research, Financial advisory services and Financial Investment options.">
+<meta name="keywords" content="Personal financial planning, Financial advisory services, Investment Advisor in Mumbai, Investment Advisor in Mumbai" />
+<meta name="robots" content="index, follow">
+<meta name="revisit-after" content="15 days"/>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="language" content="en" />
+<meta name="keywords" content="financial planners, investment plan. financial advisor best financial planner in mumbai.
+certified financial planners mumbai" />
+
+
+<!-- chang all script containers to -->
+<script type="text/javascript">
+</script> 
+
+<!-- first menu --> 
+<!-- change in html -->  </li aria-hidden="true">
+<desc alt="home-page-menu">
+<nav-menu id="Home-Page">
+<tab>
+<tab id="Home" label="Home" xlink:href="index.php" xlink:actuate="onLoad" />
+<tab id="About-Us" label="Home" xlink:href="about-organization.php" xlink:actuate="onLoad" />
+<sub-menu id="Services"> 
+<tab id="Comprehensive-Financial-Planning" label="Comprehensive-Financial-Planning" xlink:href="comprehensive-financial-planning.php" xlink:actuate="onLoad" />
+<tab id="Second-Opinion-on-Finance" label="Second-Opinion-on-Finance" input xlink:href="Second-Opinion-on-Finance.php" xlink:actuate="onLoad" />
+<tab id="tax-planning" label="Tax-Planning" input xlink:href="tax-planning.php"xlink:actuate="onLoad" />
+<tab id="financial-planning-for-nri" label="Financial-Planning-for-NRI" xlink:href="financial-planning-for-nri.php" xlink:actuate="onLoad" />
+<tab id="financial-coaching-for-corporates.php" label="Financial-Coaching-for-Corporates.php" xlink:href="financial-coaching-for-corporates.php" xlink:actuate="onLoad" />
+<sub-menu id="Blog">    
+<tab id="blog" label="Blog" xlink:href="/blog" />
+<sub-menu id="Contact-Us">    
+<tab id="contact-us" label="Contact-Us" xlink:href="contact-us.php" xlink:actuate="onLoad" />
+<sub-menu id="Login">  
+<tab id="client-portfolio" label="Client-Portfolio" xlink:href="https://www.ifastfinancial.co.in/ifast/acl/iFastClientLogin.svdo?ifaCo=SHETT&id=&password" xlink:actuate="onLoad" />
+<tab id="e-wealth" label="E-Wealth" xlink:href="https://www.njindiaonline.com/onlinetrading/login.fin?action=showLoginForm" xlink:actuate="onLoad" /> 
+<tab id="client-desk" label="Client-Desk" xlink:href="https://www.njindiaonline.in/login/Normallogin.php" xlink:actuate="onLoad" />    
+</sub-menu>  
+</sub-menu>   
+</sub-menu> 
+</tab> 
+</nav-menu>
+<desc>
+
+<!-- Hiding carousels container so that the xml is read --> 
+<div class="courusel-container" aria-hidden="true">
+
+
+
+<!-- I want a plan --> 
+<image id="assets/img/slide1_26.03.2020.png"> 
+<desc> 
+<label="I-Want-Plan" input type="radio" xlink:href="comprehensive-finance-Planning.php" xlink:actuate="onLoad" />
+<shortDesc>Takes the reader to a page that describes how S9 manages your finances through comprehensive financial 
+planning.</shortDesc> 
+<longDesc>Whether you know it or not, your approach towards personal finance plays a major
+role in how you are living or not living - your life.</longDesc> 
+<img src="assets/img/slide1_26.03.2020.png"  alt="S9 Financial Planners' green background" />
+</longDesc>
+</shortDesc>
+</desc>
+</image>
+
+<!-- I want an experience --> 
+
+<image id="assets/img/slide2_26.03.2020.png" type="png"> 
+<desc> 
+<label="I-Want-to-Experience" input type="radio" xlink:href="Second-Opinion-on-Finance.php" xlink:actuate="onLoad" />
+<shortDesc>Takes the reader to a page that describes how A financial planner needs to be unbiased.</shortDesc> 
+<longDesc>It all starts with a deeper conversation where we aim to simplify your financial life and put you, your goals and your doubts above everything</longDesc> 
+<img src="assets/img/slide2_26.03.2020.png" alt="S9 Financial Planners' green background" />
+</longDesc>
+</shortDesc>
+</desc>
+</image>		
+
+<!-- Grow towards your goals --> 
+
+<image id="assets/img/aa3rd_banner.png" type="png"> 					  
+<desc> 
+<label="I-Want-to-Grow" input type="radio" xlink:href="contact-us.php" xlink:actuate="onLoad" />
+<shortDesc>Takes the reader to a page that describes how A financial planner needs to be unbiased.</shortDesc> 
+<longDesc>ou confront financial choices every day. Make those choices work for you to achieve your goals with S9 Financial Planners</longDesc> 
+<img src="assets/img/aa3rd_banner.png" alt="S9 Financial Planners' green background" />
+</longDesc>
+</shortDesc>
+</desc>
+</image>		
+
+<!-- Reasons block --> 
+
+<!-- Change in html -->       <div class="container" aria-hidden="true">
+
+<desc>
+<nav-menu id="Reasons-Block">
+
+<tab>
+<tab id="Comprehesnive-Financial-Planning" label="Comprehensive-Financial-Planning" xlink:href="comprehensive-financial-planning.php" xlink:actuate="onLoad" />
+<shortDesc>Takes the reader to a page that describes how S9 Financial Planners helps with comprehensive financial planning.</shortDesc> 
+<longDesc> One-stop solution to all your financial Problems with detailed analysis of the given situation</longDesc> 
+<icon img src="assets/img/double-angle-pointing-to-right.svg" alt="Man looking at an exponentially raising graph." />
+</tab>
+
+<tab id="Second-Opinion-on-Finance" label="Second-Opinion-on-Finance" xlink:href="Second-Opinion-on-Finance.php" xlink:actuate="onLoad" />
+<shortDesc>Takes the reader to a page that describes how S9 Financial Planners need to be unbiased</shortDesc>
+<longDesc> The second opinion is one-time financial advice to help you resolve financial queries pertaining to pre-existing investments made.</longdesc> 
+<icon img src="assets/img/reason-icon2.jpg" alt="Man looking at a ledger." />
+</tab>
+
+<tab id="Financial-Planning-for-NRI" label="Financial-Planning-for-NRI" xlink:href="financial-planning-for-nri.php" xlink:actuate="onLoad" />
+<shortDesc>Takes the reader to a page that describes how S9 Financial Planner ensure the process and result that financial planning for NRIs is made with utmost care and transparency</shortDesc>
+<longDesc>Consultation on NRI investment options when you are away from your country, can always present an outlook and safeguard your hard-earned money.</longDesc>
+<icon img src="assets/img/double-angle-pointing-to-right.svg" alt="The globe with as a molecule with electrons." />
+</tab> 
+
+<tab id="Financial-Coaching-for-Corporates" label="Financial-Coaching-for-Corporates" xlink:href="financial-coaching-for-corporates.php" xlink:actuate="onLoad" />
+<shortDesc>Page is coming soon.</shortDesc>
+<longDesc /> 
+<icon img src="assets/img/double-angle-pointing-to-right.svg" alt="The globe with as a molecule with electrons." />
+</tab>
+
+</nav-menu>
+</desc> 
+
+<!-- Our pride --> 
+<!-- Change in html -->             <div class="col-md-6 philosophy-div1 animated bounceInLeft delay-250" aria-hidden="true">
+<desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" shape-rendering="geometricPrecision"
+text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" 
+viewBox="0 0 600 600" />
+<title>Our Pride</title>
+<shortDesc>To be able to understand, protect and grow our client’s dreams, goals, and finance. We've served 650 plus clients.</shortDesc>
+<longDesc />
+</svg>
+<desc>
+
+<!-- Why choose us --> 
+<!-- Change in html --> After h4 add <div aria-label="At S9, we are holistic financial planners"> and close it afte the last p 
+and change the href to               <a href="about-organization.php" class="see-brd-btn2" aria-hidden="true">Know More</a>
+
+<image id="Know-More"> 					  
+<desc> 
+<label="Know-More" input type="radio" xlink:href="about-organization.php" xlink:actuate="onLoad" />
+</shortDesc>Takes the reader to S9 Financial Planners' About Page</shortDesc> 
+</longDesc>S9 specializes in offering A holistic approach to Personal Financial Planning & Financial advisory services for our clients, in India and worldwide.</longDesc>
+</desc>
+</image>		
+
+<!-- I want a plan --> 
+
+<image id="I-Want-a-Plan"> 					  
+<desc> 
+<label="I-Want-a-Plan" input type="radio" xlink:href="comprehensive-finance-Planning.php" xlink:actuate="onLoad" />
+</shortDesc>Takes the reader to S9 Financial Planners' Comprehensive Financial Plamming page</shortDesc> 
+</longDesc>We do so much more than manage your finances. Comprehensive planning is your financial checkup in regard to your 
+financial goals. We build the bridge between your hard-earned money and your lifetime financial goals.</longDesc>
+</desc>
+</image>		
+
+<!-- Testimonials -->
+<!-- Change in html -->           <h2 class="h2-main" aria-label="testimonials">Testimonials</h2>
+
+<!-- Services -->
+<!-- Change in html --> <div class="price-plan-block" aria-hidden="true">
+<desc>
+<shortDesc>A table that describes all financial planning services offered by S9 Financial Planners</shortDesc> 
+<title>Services</title>
+<table id="1" alt="Comprehensive-Financial-Plan"> 
+<1>Contingency Planning.</1>
+<2>Risk management.</2>
+<3>Taxation.</3>
+<4>2 Reviews in a year.</4>
+<5>Dedicated Personal Financial Planner.</5>
+<6>Update on New Investment avenues.</6>
+<7>Wealth management.</7>
+<8>Mutual fund advice.</8>
+<link id="contact-us">
+<label="Talk-to-an-Expert" input type="radio" xlink:href="contact-us.php"xlink:actuate="onLoad"  />
+</link> 
+</table> 
+<table id="2" alt="Second-Opinion-on-Finance"> 
+<1>60 minutes one-time session.</1>
+<2>Review of the current portfolio.</2>
+<3>Solution on future investments.</3>
+<4>Addressing any query regarding taxation, insurance, loans or property.</4>
+<link id="contact-us">
+<label="Talk-to-an-Expert" input type="radio" xlink:href="contact-us.php" xlink:actuate="onLoad" />
+</link> 
+</table>
+<table id="3" alt="Financial-Planning-for-NRI"> 
+
+<1>Contingency Planning.</1>
+<2>Risk management.</2>
+<3>Taxation.</3>
+<4>PROPERTY MANAGEMENT</4>
+<5>Wealth generation</5>
+<6>Legal services</6>
+<7>2 Reviews in a year.</7>
+<8>Dedicated Personal Financial Planner.</8>
+<9>Update on New Investment avenues.</9>
+<10>Wealth management.</10>
+<11>Mutual fund advice.</l1>
+<link id="contact-us">
+<label="Talk-to-an-Expert" input type="radio" xlink:href="contact-us.php" xlink:actuate="onLoad" />
+</link> 
+</table> 
+
+</desc> 
+
+<!-- Latest news -->
+<!-- Change in html -->       <div class="container" aria-label="Latest News">
+
+<!-- Quick Links -->
+<!-- Change in html --> <div class="container" aria-hidden="true">
+
+
+<desc alt="quick-links">
+<nav-menu id="Home-Page">
+<tab>
+<tab id="Home" label="Home" xlink:href="index.php" xlink:actuate="onLoad" />
+<tab id="About-Us" label="Home" xlink:href="about-organization.php" xlink:actuate="onLoad" />
+<sub-menu id="Services"> 
+<tab id="Comprehensive-Financial-Planning" label="Comprehensive-Financial-Planning" xlink:href="comprehensive-financial-planning.php" xlink:actuate="onLoad" />
+<tab id="Second-Opinion-on-Finance" label="Second-Opinion-on-Finance" input xlink:href="Second-Opinion-on-Finance.php" xlink:actuate="onLoad" />
+<tab id="tax-planning" label="Tax-Planning" input xlink:href="tax-planning.php"xlink:actuate="onLoad" />
+<tab id="financial-planning-for-nri" label="Financial-Planning-for-NRI" xlink:href="financial-planning-for-nri.php" xlink:actuate="onLoad" />
+<tab id="financial-coaching-for-corporates.php" label="Financial-Coaching-for-Corporates.php" xlink:href="financial-coaching-for-corporates.php" xlink:actuate="onLoad" />
+<sub-menu id="Blog">    
+<tab id="blog" label="Blog" xlink:href="/blog" />
+<sub-menu id="Contact-Us">    
+<tab id="contact-us" label="Contact-Us" xlink:href="contact-us.php" xlink:actuate="onLoad" />
+<sub-menu id="Login">  
+<tab id="client-portfolio" label="Client-Portfolio" xlink:href="https://www.ifastfinancial.co.in/ifast/acl/iFastClientLogin.svdo?ifaCo=SHETT&id=&password" xlink:actuate="onLoad" />
+<tab id="e-wealth" label="E-Wealth" xlink:href="https://www.njindiaonline.com/onlinetrading/login.fin?action=showLoginForm" xlink:actuate="onLoad" /> 
+<tab id="client-desk" label="Client-Desk" xlink:href="https://www.njindiaonline.in/login/Normallogin.php" xlink:actuate="onLoad" />    
+</sub-menu>  
+</sub-menu>   
+</sub-menu> 
+</tab> 
+</nav-menu>
+<desc>
+
+<!-- WhatsApp link --> 
+I need to further test how screen readers parse this JS 
+
+
+<!-- about us ========================================================================================================================== --> 
+
+<!-- first menu --> 
+<!-- change in html -->  </li aria-hidden="true">
+<desc alt="home-page-menu">
+<nav-menu id="Home-Page">
+<tab>
+<tab id="Home" label="Home" xlink:href="index.php" xlink:actuate="onLoad" />
+<tab id="About-Us" label="Home" xlink:href="about-organization.php" xlink:actuate="onLoad" />
+<sub-menu id="Services"> 
+<tab id="Comprehensive-Financial-Planning" label="Comprehensive-Financial-Planning" xlink:href="comprehensive-financial-planning.php" xlink:actuate="onLoad" />
+<tab id="Second-Opinion-on-Finance" label="Second-Opinion-on-Finance" input xlink:href="Second-Opinion-on-Finance.php" xlink:actuate="onLoad" />
+<tab id="tax-planning" label="Tax-Planning" input xlink:href="tax-planning.php"xlink:actuate="onLoad" />
+<tab id="financial-planning-for-nri" label="Financial-Planning-for-NRI" xlink:href="financial-planning-for-nri.php" xlink:actuate="onLoad" />
+<tab id="financial-coaching-for-corporates.php" label="Financial-Coaching-for-Corporates.php" xlink:href="financial-coaching-for-corporates.php" xlink:actuate="onLoad" />
+<sub-menu id="Blog">    
+<tab id="blog" label="Blog" xlink:href="/blog" />
+<sub-menu id="Contact-Us">    
+<tab id="contact-us" label="Contact-Us" xlink:href="contact-us.php" xlink:actuate="onLoad" />
+<sub-menu id="Login">  
+<tab id="client-portfolio" label="Client-Portfolio" xlink:href="https://www.ifastfinancial.co.in/ifast/acl/iFastClientLogin.svdo?ifaCo=SHETT&id=&password" xlink:actuate="onLoad" />
+<tab id="e-wealth" label="E-Wealth" xlink:href="https://www.njindiaonline.com/onlinetrading/login.fin?action=showLoginForm" xlink:actuate="onLoad" /> 
+<tab id="client-desk" label="Client-Desk" xlink:href="https://www.njindiaonline.in/login/Normallogin.php" xlink:actuate="onLoad" />    
+</sub-menu>  
+</sub-menu>   
+</sub-menu> 
+</tab> 
+</nav-menu>
+<desc>
+
+
+<!-- first section -->
+<!-- change in html --> <div class="container" aria-label="The 4 pillars of our fondation">
+
+<!-- About working --> 
+<!-- change in html -->	<div class="about-working bggry" aria-label="Education, reasoning, transparency and hand holding">
+
+<!-- For each person's linkedin --> <!-- Change in html -->  <a href="https://in.linkedin.com/in/gaurav-karnik-30812151" aria-hidden="true">
+
+
+<label="Gaurav-Karnik's-Linkedin" input type="radio" href="https://in.linkedin.com/in/gaurav-karnik-30812151"xlink:actuate="onLoad"  /> <!-- etc -->
+
+<!-- Join us -->
+<!-- Change in html -->       <div class=" join-us cta-section" aria-label="Join Us">
+
+
+<!-- Quick Links -->
+<!-- Change in html --> <div class="container" aria-hidden="true">
+
+
+<desc alt="quick-links">
+<nav-menu id="Home-Page">
+<tab>
+<tab id="Home" label="Home" xlink:href="index.php" xlink:actuate="onLoad" />
+<tab id="About-Us" label="Home" xlink:href="about-organization.php" xlink:actuate="onLoad" />
+<sub-menu id="Services"> 
+<tab id="Comprehensive-Financial-Planning" label="Comprehensive-Financial-Planning" xlink:href="comprehensive-financial-planning.php" xlink:actuate="onLoad" />
+<tab id="Second-Opinion-on-Finance" label="Second-Opinion-on-Finance" input xlink:href="Second-Opinion-on-Finance.php" xlink:actuate="onLoad" />
+<tab id="tax-planning" label="Tax-Planning" input xlink:href="tax-planning.php"xlink:actuate="onLoad" />
+<tab id="financial-planning-for-nri" label="Financial-Planning-for-NRI" xlink:href="financial-planning-for-nri.php" xlink:actuate="onLoad" />
+<tab id="financial-coaching-for-corporates.php" label="Financial-Coaching-for-Corporates.php" xlink:href="financial-coaching-for-corporates.php" xlink:actuate="onLoad" />
+<sub-menu id="Blog">    
+<tab id="blog" label="Blog" xlink:href="/blog" />
+<sub-menu id="Contact-Us">    
+<tab id="contact-us" label="Contact-Us" xlink:href="contact-us.php" xlink:actuate="onLoad" />
+<sub-menu id="Login">  
+<tab id="client-portfolio" label="Client-Portfolio" xlink:href="https://www.ifastfinancial.co.in/ifast/acl/iFastClientLogin.svdo?ifaCo=SHETT&id=&password" xlink:actuate="onLoad" />
+<tab id="e-wealth" label="E-Wealth" xlink:href="https://www.njindiaonline.com/onlinetrading/login.fin?action=showLoginForm" xlink:actuate="onLoad" /> 
+<tab id="client-desk" label="Client-Desk" xlink:href="https://www.njindiaonline.in/login/Normallogin.php" xlink:actuate="onLoad" />    
+</sub-menu>  
+</sub-menu>   
+</sub-menu> 
+</tab> 
+</nav-menu>
+<desc>
+
+
+<!-- Comprehensive Financial Planning ========================================================================================================================== --> 
