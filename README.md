@@ -6,6 +6,7 @@
 5. [Conclusion](#subparagraph1)
 6. [Contact](#paragraph2)
 7. [Samples](#subparagraph2)
+8. [Techie Stuff](#subparagraph8)
 
 
 ## This is the introduction <a name="introduction"></a>
@@ -129,6 +130,8 @@ For examples of long form content click this [link](https://github.com/AFeldstee
 
 To get a copy of my editorial articles, click [this](https://github.com/AFeldsteen/AF79/blob/main/Street%20Kulture%20November%20Issue%202021%20Final%20draft)<br>
 	Please download the PDF via the "download raw" radial. 
+	
+## Techie Stuff <a name="subparagraph8"></a>
 
 [Dita authoring](https://github.com/AFeldsteen/AF79/blob/main/drone.epub)
 
@@ -139,3 +142,4 @@ To get a copy of my editorial articles, click [this](https://github.com/AFeldste
 [XML and HTML for WCAG accessiblity](https://github.com/AFeldsteen/AF79/blob/main/S9%20XML.xml)
 
 [A strict robots.txt](https://github.com/AFeldsteen/S9/blob/main/robots.txt)
+
